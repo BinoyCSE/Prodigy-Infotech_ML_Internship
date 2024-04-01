@@ -11,7 +11,7 @@
 ## Task-03: Implement a support vector machine (SVM) to classify images of cats and dogs from the Kaggle dataset.
  - Dataset: https://www.kaggle.com/c/dogs-vs-cats/data
  - Machine Learning tasks: Support Vector Machine
- - Tool: Google Colab and Kaggle
+ - Tool: Jupyter Notebook
 
 ## Task-04: Develop a hand gesture recognition model that can accurately identify and classify different hand gestures from image or video data, enabling intuitive human-computer interaction and gesture-based control systems.
  - Dataset: https://www.kaggle.com/datasets/gti-upm/leapgestrecog
